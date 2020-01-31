@@ -1723,6 +1723,10 @@ section.lazy-placeholder:after {
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1823,6 +1827,10 @@ section.lazy-placeholder:after {
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-buttons {
@@ -2342,6 +2350,10 @@ section.lazy-placeholder:after {
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2442,6 +2454,10 @@ section.lazy-placeholder:after {
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-buttons {
@@ -2961,6 +2977,10 @@ section.lazy-placeholder:after {
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -3061,6 +3081,10 @@ section.lazy-placeholder:after {
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-buttons {
@@ -4267,6 +4291,10 @@ section.lazy-placeholder:after {
 .cid-rP9LTAtvVA .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rP9LTAtvVA .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rP9LTAtvVA .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rP9LTAtvVA .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rP9LTAtvVA .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -4367,6 +4395,10 @@ section.lazy-placeholder:after {
   .cid-rP9LTAtvVA .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rP9LTAtvVA .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rP9LTAtvVA .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rP9LTAtvVA .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rP9LTAtvVA .navbar-collapse.collapsing .navbar-buttons,
   .cid-rP9LTAtvVA .navbar-collapse.show .navbar-buttons {
