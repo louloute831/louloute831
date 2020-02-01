@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower:400&display=swap);
 
 
 
@@ -9,7 +9,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Amatic SC', handwriting;
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -25,7 +25,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Indie Flower', handwriting;
   font-size: 1rem;
   font-display: swap;
 }
@@ -41,7 +41,7 @@ body {
   font-size: 3.2rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Indie Flower', handwriting;
   font-size: 1rem;
   font-display: swap;
 }
@@ -547,7 +547,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Indie Flower', handwriting;
   font-size: 1rem;
   font-display: swap;
 }
@@ -1156,7 +1156,7 @@ section.lazy-placeholder:after {
 .cid-rP8W0d9fZU {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/oiseau-poeme-illustration-2.png");
+  background-image: url("../../../assets/images/oiseau-poeme-illustration-1.png");
 }
 .cid-rP8W0d9fZU H2 {
   color: #ffffff;
@@ -1271,6 +1271,13 @@ section.lazy-placeholder:after {
 .cid-rP9va4f7vF {
   background-image: url("../../../assets/images/capture-decran-2020-01-09-a-10.07.39-2.png");
 }
+.cid-rP9va4f7vF H1 {
+  text-align: center;
+}
+.cid-rP9va4f7vF .mbr-text,
+.cid-rP9va4f7vF .mbr-section-btn {
+  text-align: center;
+}
 .cid-rP9A2dads6 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1376,7 +1383,7 @@ section.lazy-placeholder:after {
 .cid-rP9va5lFpz {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/oiseau-poeme-illustration-2.png");
+  background-image: url("../../../assets/images/oiseau-poeme-illustration-1.png");
 }
 .cid-rP9va5lFpz H2 {
   color: #ffffff;
@@ -1723,10 +1730,6 @@ section.lazy-placeholder:after {
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1827,10 +1830,6 @@ section.lazy-placeholder:after {
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-buttons {
@@ -2003,7 +2002,7 @@ section.lazy-placeholder:after {
 .cid-rP9vdr1VWZ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/oiseau-poeme-illustration-2.png");
+  background-image: url("../../../assets/images/oiseau-poeme-illustration-1.png");
 }
 .cid-rP9vdr1VWZ H2 {
   color: #ffffff;
@@ -2350,10 +2349,6 @@ section.lazy-placeholder:after {
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2454,10 +2449,6 @@ section.lazy-placeholder:after {
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-buttons {
@@ -2630,7 +2621,7 @@ section.lazy-placeholder:after {
 .cid-rP9vfuNXEz {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/oiseau-poeme-illustration-2.png");
+  background-image: url("../../../assets/images/oiseau-poeme-illustration-1.png");
 }
 .cid-rP9vfuNXEz H2 {
   color: #ffffff;
@@ -2977,10 +2968,6 @@ section.lazy-placeholder:after {
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rP9wyAe4L1 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -3081,10 +3068,6 @@ section.lazy-placeholder:after {
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rP9wyAe4L1 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rP9wyAe4L1 .navbar-collapse.show .navbar-buttons {
@@ -3230,6 +3213,9 @@ section.lazy-placeholder:after {
 .cid-rP9ZspreaZ .mbr-crt-title {
   color: #9f848d;
 }
+.cid-rP9ZspreaZ .mbr-section-title {
+  color: #463939;
+}
 .cid-rPa3ftmrqB {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3366,7 +3352,7 @@ section.lazy-placeholder:after {
 .cid-rP9LRRwBF0 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/oiseau-poeme-illustration-2.png");
+  background-image: url("../../../assets/images/oiseau-poeme-illustration-1.png");
 }
 .cid-rP9LRRwBF0 H2 {
   color: #ffffff;
@@ -3944,7 +3930,7 @@ section.lazy-placeholder:after {
 .cid-rP9LTyZzPJ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/oiseau-poeme-illustration-2.png");
+  background-image: url("../../../assets/images/oiseau-poeme-illustration-1.png");
 }
 .cid-rP9LTyZzPJ H2 {
   color: #ffffff;
@@ -4291,10 +4277,6 @@ section.lazy-placeholder:after {
 .cid-rP9LTAtvVA .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rP9LTAtvVA .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rP9LTAtvVA .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rP9LTAtvVA .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rP9LTAtvVA .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -4395,10 +4377,6 @@ section.lazy-placeholder:after {
   .cid-rP9LTAtvVA .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rP9LTAtvVA .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rP9LTAtvVA .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rP9LTAtvVA .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rP9LTAtvVA .navbar-collapse.collapsing .navbar-buttons,
   .cid-rP9LTAtvVA .navbar-collapse.show .navbar-buttons {
