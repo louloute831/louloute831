@@ -931,15 +931,15 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "3ème Axe Afip",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Adaptatif",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/bd-4.png",
-                "thumb": "@PROJECT_PATH@/assets/images/bd-4-800x1235.png",
+                "image": "@PROJECT_PATH@/assets/images/ee.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ee-800x1069.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -951,8 +951,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/bd-5.png",
-                "thumb": "@PROJECT_PATH@/assets/images/bd-5-800x772.png",
+                "image": "@PROJECT_PATH@/assets/images/sans-titre-f1.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sans-titre-f1-800x601.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1081,13 +1081,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/identite-visuelle1.png",
-                "thumb": "@PROJECT_PATH@/assets/images/identite-visuelle1-800x470.png",
+                "image": "@PROJECT_PATH@/assets/images/capture-decran-2018-12-13-a-17.17.12.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2018-12-13-a-17.17.12-800x587.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Mon identité Visuelle",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Impressionnant",
@@ -1107,8 +1107,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/bd-1.png",
-                "thumb": "@PROJECT_PATH@/assets/images/bd-1-800x454.png",
+                "image": "@PROJECT_PATH@/assets/images/sans-titre-1.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sans-titre-1-800x477.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2002,7 +2002,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Black Kitten Party",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Adaptatif",
@@ -2113,13 +2113,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/capture-decran-2020-02-10-a-15.59.31.png",
-                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2020-02-10-a-15.59.31-800x1176.png",
+                "image": "@PROJECT_PATH@/assets/images/capture-decran-2020-02-11-a-10.32.25.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2020-02-11-a-10.32.25-800x1175.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Unadev",
-                "active": false
+                "active": true
               }
             ]
           }
