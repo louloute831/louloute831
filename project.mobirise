@@ -2106,20 +2106,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Colombes au primptemps",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Impressionnant",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/capture-decran-2020-02-18-a-10.09.16.png",
-                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2020-02-18-a-10.09.16-800x1173.png",
+                "image": "@PROJECT_PATH@/assets/images/capture-decran-2020-02-18-a-10.16.30.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2020-02-18-a-10.16.30-800x1173.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "L'Unadev",
-                "active": false
+                "active": true
               }
             ]
           }
