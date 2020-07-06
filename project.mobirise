@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1022,20 +1022,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "1er Axe L'Horloger de Saint Paul",
-                "active": false
-              },
-              {
-                "tags": "Impressionnant",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/capture-decran-2018-12-13-a-17.36.26.png",
-                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2018-12-13-a-17.36.26-800x806.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "2ème Axe L'Horloger de Saint Paul",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Impressionnant",
@@ -1087,7 +1074,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Mon identité Visuelle",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Impressionnant",
@@ -1126,6 +1113,58 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "1ère Axe Reparo",
+                "active": false
+              },
+              {
+                "tags": "Impressionnant",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/capture-decran-2020-06-08-a-10.32.28.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2020-06-08-a-10.32.28-800x505.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Raphy's Uber Society",
+                "active": false
+              },
+              {
+                "tags": "Impressionnant",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/capture-decran-2020-06-08-a-10.32.43.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2020-06-08-a-10.32.43-800x666.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "1er Logo CLFA",
+                "active": false
+              },
+              {
+                "tags": "Impressionnant",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/logo.png",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-800x560.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "2ème logo CLFA",
+                "active": false
+              },
+              {
+                "tags": "Impressionnant",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/capture-decran-2020-07-06-a-08.14.59.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2020-07-06-a-08.14.59-800x532.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Ferme de la Bruyère",
                 "active": false
               }
             ]
